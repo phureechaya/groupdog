@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+/* start nav and menu */
 .container {
   max-width: 1140px;
   margin: 0 auto;
@@ -14,9 +15,6 @@ nav {
 .con1 {
   display: flex;
   justify-content: space-between;
-}
-.con1 ul {
-  
 }
 .logo {
   display: flex;
@@ -45,6 +43,7 @@ nav {
 .menu li:hover {
   background: #855634;
 }
+/* end nav and menu */
 
 .maincontent {
   background-color: #fffbe9;
